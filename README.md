@@ -43,7 +43,7 @@
 
 
 1. **Эндпоинт: http://localhost/api/id/
-   <br>Метод запроса: POST
+   <br>Метод запроса: POST**
 
     Запрос:
 
@@ -61,7 +61,7 @@
 <br>
 
 2. **Эндпоинт: http://localhost/api/id/{short_id}/
-   <br>Метод запроса: GET
+   <br>Метод запроса: GET**
 
    Запрос:
 
